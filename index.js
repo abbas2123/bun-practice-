@@ -18,6 +18,9 @@ Bun.serve({
     return new Response('404 not found',{status : 404});
   }  
 });
+
+AudioParamMap.
+
 console.log('halooo')
 console.log('halooo,hai')
 console.log("✅ Server running at http://localhost:3000");
